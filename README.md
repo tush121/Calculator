@@ -13,9 +13,8 @@ Enter the first number.
 Select the operation (+, -, *, /).
 Enter the second number.
 The result will be displayed.
-Contributing:
 
-Contributions are welcome! If you want to add new features, improve existing ones, or report issues, follow these steps:
+Contributing: Contributions are welcome! If you want to add new features, improve existing ones, or report issues, follow these steps:
 
 Fork the repository.
 Create a new branch.
